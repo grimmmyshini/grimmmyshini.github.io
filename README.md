@@ -1,2 +1,2 @@
 # grimmmyshini.github.io
-Personal website 
+Personal website: [grimmmyshini.github.io](https://grimmmyshini.github.io./)
